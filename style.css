@@ -295,7 +295,7 @@ hr {
 }
 @media screen and (max-width: 770px) {
     .single-service.active .service-desc {
-        bottom: 25%;
+        bottom: 35%;
     }
     .single-service {
         flex-basis: 100%;
