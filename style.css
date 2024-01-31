@@ -294,6 +294,9 @@ hr {
     opacity: 1;
 }
 @media screen and (max-width: 770px) {
+    .single-service.active .service-desc {
+        bottom: 25%;
+    }
     .single-service {
         flex-basis: 100%;
         margin-bottom: 15px;
