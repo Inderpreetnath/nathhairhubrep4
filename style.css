@@ -267,7 +267,7 @@ nav ul li a {
     opacity: 0;
     transition: 1s;
 }
-.single-service:active .overlay {
+.single-service:hover .overlay {
     opacity: 1;
 }
 .service-desc {
@@ -289,7 +289,7 @@ hr {
 .service-desc p {
     font-size: 14px;
 }
-.single-service:active .service-desc{
+.single-service:hover .service-desc{
     bottom: 40%;
     opacity: 1;
 }
