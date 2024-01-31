@@ -294,10 +294,6 @@ hr {
     opacity: 1;
 }
 @media screen and (max-width: 770px) {
-    .single-service .service-desc{
-        bottom: 100%;
-        opacity: 1;
-    }
     .single-service {
         flex-basis: 100%;
         margin-bottom: 15px;
